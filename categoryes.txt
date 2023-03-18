@@ -1,0 +1,5 @@
+audio:.mp3,.aiff,.wav,.amr,.ogg
+images:.png,.jpg,.jpeg,.svg
+video:.avi,.mp4,.mov,.mkv
+documents:.doc,.docx,.txt,.pdf,.xls,.pptx,.xlsx
+archives:.zip,.gz,.tzr,.rar    
